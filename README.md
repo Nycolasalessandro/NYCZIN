@@ -1,6 +1,11 @@
 
 
 
+head> 
+    <link rel="stylesheet" href="styles.css" />
+    <title>Nycolas alessandro</title>
+</head>
+
 <body>
 
 <header><ALURAFLIX</header>
